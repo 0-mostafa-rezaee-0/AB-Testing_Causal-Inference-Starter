@@ -1,14 +1,21 @@
 ## 🧰 How to Use This Template    
-
 Click the green **"Use this template"** button at the top of the page, then choose **"Create a new repository"**.   
-
 This will create your own copy of this project, which you can modify freely — no need to fork!   
 
----    
+---
 
-# AB-Testing_Causal-Inference-Starter
+<p align="center">
+  <img src="images/banner.png" alt="banner" width="75%">
+</p>
 
-**Your first hands-on lab in designing, simulating, and analyzing A/B tests for causal inference.**
+<h1 align="center">A/B Testing: A Causal Inference Starter</h1>
+
+Your first hands-on lab in designing, simulating, and analyzing A/B tests for causal inference.
+
+---
+
+***Table of Contents***
+
 
 ---
 
